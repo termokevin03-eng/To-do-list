@@ -32,8 +32,8 @@ export default function App() {
 
       {/* Header */}
       <View style={styles.header}>
-        <Text style={styles.smallTitle}>PERSONAL</Text>
-        <Text style={styles.title}>TASK FORCE</Text>
+        <Text style={styles.smallTitle}>MY PERSONAL</Text>
+        <Text style={styles.title}>TASK</Text>
         <Text style={styles.subtitle}>
           Stay focused. Get it done.
         </Text>
@@ -104,7 +104,7 @@ export default function App() {
       {/* Footer */}
       <View style={styles.footer}>
         <Text style={styles.footerText}>
-          DISCIPLINE • FOCUS • ACTION
+          DISCIPLINE • GRIND • FOCUS
         </Text>
       </View>
 
