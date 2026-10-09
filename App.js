@@ -183,8 +183,8 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderBottomWidth: 1,
     borderBottomColor: "#292d30",
-    paddingBottom: 12,
-    marginBottom: 12,
+    paddingBottom: 8,
+    marginBottom: 8,
   },
 
   listTitle: {
@@ -196,7 +196,7 @@ const styles = StyleSheet.create({
 
   taskCount: {
     color: "#666",
-    fontSize: 11,
+    fontSize: 8,
     fontWeight: "700",
   },
 
@@ -224,13 +224,13 @@ const styles = StyleSheet.create({
 
   number: {
     color: "#4d8dff",
-    fontSize: 12,
+    fontSize: 8,
     fontWeight: "900",
   },
 
   taskText: {
     color: "#eee",
-    fontSize: 16,
+    fontSize: 12,
     fontWeight: "600",
     flex: 1,
   },
